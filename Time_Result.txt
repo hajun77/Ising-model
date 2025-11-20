@@ -1,5 +1,0 @@
-220_100Wolf # escape time :1763.19
-
-240_100Wolf # escape time :220.66
-
-# escape time : 4626.41
